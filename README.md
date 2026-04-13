@@ -5,7 +5,6 @@
 [![Tests](https://img.shields.io/badge/tests-17%2F17%20passing-brightgreen)](#test-suite)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](#quick-start)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.x-red)](#quick-start)
-[![License](https://img.shields.io/badge/license-MIT-purple)](#license)
 
 ---
 
@@ -150,12 +149,3 @@ The engine assumes `txn_id` values are normalised (trimmed whitespace, consisten
 3. Set **Main file path** to `app.py`
 4. Click **Deploy** — no secrets or environment variables required
 
----
-
-## License
-
-MIT — free to use, modify, and distribute.
-
----
-
-*payments-reconciliation-dashboard · December 2024 · USD · UTC*
